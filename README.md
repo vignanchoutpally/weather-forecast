@@ -10,7 +10,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-*LIVE DEMO*: "vignan-weatherforecast.netlify.app"
+*LIVE DEMO*: <a href="vignan-weatherforecast.netlify.app">Click here</a>
 
 This project is a Weather Application built using a combination of web technologies: HTML, CSS, and JavaScript, alongside the OpenWeatherMap API to retrieve real-time weather data. The application allows users to input a city name and receive current weather details such as temperature and weather conditions.
 
