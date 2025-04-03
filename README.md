@@ -44,3 +44,4 @@ JavaScript is used to manage user input, interact with the OpenWeather API, and 
 
 #Output:
 
+<!-- Uploading "Screenshot 2025-04-03 at 8.32.44 PM.png"... -->
