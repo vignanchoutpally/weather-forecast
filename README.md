@@ -44,4 +44,4 @@ JavaScript is used to manage user input, interact with the OpenWeather API, and 
 
 #Output:
 
-"Screenshot 2025-04-03 at 8.32.44 PM.png"
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/194be20f-1a70-4dde-aff2-985cff08c8fa" />
